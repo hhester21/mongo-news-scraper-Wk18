@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tmhammons91/mongo-news-scraper.git"
+    "url": "git+https://github.com/hhester21/mongo-news-scraper-week18.git"
   },
   "keywords": [
     "mongo"
@@ -17,9 +17,9 @@
   "author": "THammons",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tmhammons91/mongo-news-scraper/issues"
+    "url": "//github.com/hhester21/mongo-news-scraper-week18/issues"
   },
-  "homepage": "https://github.com/tmhammons91/mongo-news-scraper#readme",
+  "homepage": "//github.com/hhester21/mongo-news-scraper-week18#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "cheerio": "^0.22.0",
